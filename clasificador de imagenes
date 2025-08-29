@@ -7,3 +7,9 @@ in   type imagenes        |  out    binario
      |     
      |
      |
+capitulo 2 fastai entrenar un modelo resnel para resolver el problema de reclasificacion que mi libreria intereactue con estos datos, dataloger  cargar imaen y etiqueta, luego del dat lger cargar elmodelo, siguiente comando
+son 3 pasos colocar iagen y respuestas, en algo que se llame dataloger
+segundo
+cargar u modelo, import log, 
+3 pasos
+mejorarlo apartir del data loger, findtop
